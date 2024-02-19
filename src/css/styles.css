@@ -1,0 +1,109 @@
+.monday-item1:hover {
+  color: red;
+}
+.monday-item2 {
+  color: brown;
+}
+.monday-item3 {
+  color: blue;
+}
+.monday-item4 {
+  color: green;
+}
+.monday-item5 {
+  color: rgb(133, 27, 115);
+}
+.monday-item6 {
+  color: rgb(128, 81, 110);
+}
+.monday-item7 {
+  color: rgb(255, 191, 0);
+}
+.tuesday-item1:disabled {
+  color: blueviolet;
+}
+.tuesday-item2 {
+  color: palevioletred;
+}
+.tuesday-item3 {
+  color: rgb(65, 55, 75);
+}
+.tuesday-item4 {
+  color: rgb(254, 0, 89);
+}
+.tuesday-item5 {
+  color: rgb(228, 147, 147);
+}
+.tuesday-item6 {
+  color: rgb(138, 202, 95);
+}
+.tuesday-item7 {
+  color: rgb(253, 143, 0);
+}
+.wednesday-item1:hover {
+  color: aqua;
+  background-color: black;
+}
+.wednesday-item2 {
+  color: rgb(22, 53, 53);
+}
+.wednesday-item3 {
+  color: rgb(27, 48, 48);
+}
+.wednesday-item4 {
+  color: wheat;
+}
+.wednesday-item5 {
+  color: teal;
+}
+.wednesday-item6 {
+  color: yellowgreen;
+}
+.wednesday-item7 {
+  color: indianred;
+}
+.wednesday-item8 {
+  color: orangered;
+}
+.thursday-item1-link:link {
+  color: coral;
+}
+.thursday-item2 {
+  color: purple;
+}
+.thursday-item3 {
+  color: pink;
+}
+.thursday-item4 {
+  color: saddlebrown;
+}
+.thursday-item5 {
+  color: darkred;
+}
+.thursday-item6 {
+  color: fuchsia;
+}
+.thursday-item7 {
+  color: greenyellow;
+}
+.friday-item1-link:visited {
+  color: honeydew;
+}
+.friday-item2 {
+  color: khaki;
+}
+.friday-item3 {
+  color: lawngreen;
+}
+.friday-item4 {
+  color: crimson;
+}
+.friday-item5 {
+  color: violet;
+}
+.friday-item6 {
+  color: navy;
+}
+.friday-item7 {
+  color: mediumseagreen;
+}
